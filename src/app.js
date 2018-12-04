@@ -25,6 +25,7 @@ setTimeout(function () {
     getName.style.display = "block";
 
     document.querySelector('#getName').addEventListener('keypress', function (e) {
+       
         let char = e.which || e.keyCode;
 
 
