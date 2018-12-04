@@ -25,6 +25,15 @@ input {
     background:#b3ecff;
 }
 
+#avatar{
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+    position: absolute;
+    top: -1;
+    right: -20px;
+}
+
 #getName {
     padding: 13px;
     width: 50%;
